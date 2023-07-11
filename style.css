@@ -1,15 +1,13 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background: -webkit-linear-gradient(90deg,#af9cc7 , #cb9242);
     background: linear-gradient(90deg,#af9cc7 , #cb9242);
+    
     
     
 
 }
-
-hr {
-    width: 500px;
- }
 h1{
     color: #472471;
     font: sans-serif;
@@ -36,7 +34,7 @@ h2{
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
-     -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
     -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
     -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px; 
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
